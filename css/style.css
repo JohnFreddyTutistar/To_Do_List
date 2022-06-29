@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Prompt&display=swap');
+.header-section{
+    background: linear-gradient(to right, #64a355, #008b76);
+    height: 7vh;
+    color: #fff;
+    font-size: 30px;
+    font-family: 'Prompt', sans-serif;
+}
+footer{
+    background: linear-gradient(to right, #64a355, #008b76);
+    position: absolute;
+    font-size: 20px;
+    bottom: 0;
+    width: 100%;
+    height: 40px;
+    color: white;
+}
+a{
+    color: #014948;
+    text-decoration: none;
+}
+.empy{
+    font-family: 'Prompt', sans-serif;
+}
