@@ -8,7 +8,7 @@
 }
 footer{
     background: linear-gradient(to right, #64a355, #008b76);
-    position: absolute;
+    /* position: absolute; */
     font-size: 20px;
     bottom: 0;
     width: 100%;
@@ -19,6 +19,12 @@ a{
     color: #014948;
     text-decoration: none;
 }
-.empy{
+.empty{
     font-family: 'Prompt', sans-serif;
+}
+.imgEmpty{
+    opacity: 0.8;
+}
+h1{
+    font-size: 30px;
 }
