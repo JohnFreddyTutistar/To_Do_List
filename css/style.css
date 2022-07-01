@@ -1,30 +1,26 @@
 @import url('https://fonts.googleapis.com/css2?family=Prompt&display=swap');
 .header-section{
-    background: linear-gradient(to right, #64a355, #008b76);
-    height: 7vh;
+    background-image: radial-gradient(circle at 50% 50%, #6f82e6 0, #3c78f2 50%, #0039b9 100%);
+    height: 9vh;
     color: #fff;
     font-size: 30px;
     font-family: 'Prompt', sans-serif;
-}
-footer{
-    background: linear-gradient(to right, #64a355, #008b76);
-    /* position: absolute; */
-    font-size: 20px;
-    bottom: 0;
-    width: 100%;
-    height: 40px;
-    color: white;
-}
-a{
-    color: #014948;
-    text-decoration: none;
 }
 .empty{
     font-family: 'Prompt', sans-serif;
 }
 .imgEmpty{
-    opacity: 0.8;
+    opacity: 0.6;
 }
 h1{
     font-size: 30px;
+}
+.parrafo{
+    font-size: 14px;
+    color: #5c5c5c;
+}
+.child-container{
+    border: solid 1px rgb(230, 230, 230);
+    border-radius: 8px;
+    box-shadow: 0 4px 2px -2px rgb(218, 216, 216);
 }
