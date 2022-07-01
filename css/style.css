@@ -5,7 +5,14 @@
     color: #fff;
     font-size: 30px;
     font-family: 'Prompt', sans-serif;
+    position: relative;
 }
+.hijo {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
 .empty{
     font-family: 'Prompt', sans-serif;
 }
