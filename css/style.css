@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Prompt&display=swap');
 
 .header-section{
-    background-image: radial-gradient(circle at 50% 50%, #6f82e6 0, #3c78f2 50%, #0039b9 100%);
+    background-image: radial-gradient(circle at 50% 50%, #4055be 0, #3c78f2 50%, #0039b9 100%);
     height: 9vh;
     color: #fff;
     font-size: 30px;
@@ -28,7 +28,7 @@ h1{
     font-size: 30px;
 }
 .parrafo{
-    font-size: 14px;
+    font-size: 20px;
     color: #9e9e9e;
 }
 .child-container{
